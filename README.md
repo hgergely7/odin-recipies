@@ -1,1 +1,1 @@
-# odin-recipies
+Hello, I'm Gergely a noob. Yet.
