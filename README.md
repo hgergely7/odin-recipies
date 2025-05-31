@@ -1,1 +1,1 @@
-Hello, I'm Gergely a noob. Yet.
+Hello, I'm Gergely and learning HTML right now by buliding a recipe webpage.
